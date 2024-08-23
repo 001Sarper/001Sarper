@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarper</h1>
 <h3 align="center">A passionate developer from germany with being turkey as my nationality.</h3>
-<img align="right" alt="Coding" width="350" height="250" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
+<img align="right" alt="Coding" width="400" height="250" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=001sarper&label=Profile%20views&color=0e75b6&style=flat" alt="001sarper" /> </p>
 
 - 🔭 I’m currently working on **MailBotter**
