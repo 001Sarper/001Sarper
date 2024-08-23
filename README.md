@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [github.com/001Sarper](github.com/001Sarper)
+- 👨‍💻 All of my projects are available at [github.com/001Sarper](https://github.com/001Sarper)
 
 <p align="left">
 </p>
