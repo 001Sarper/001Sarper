@@ -1,4 +1,4 @@
-<h1 align="left">Do you want to know what Art is? Coding.</h1>
+<h1 align="left">Do you want to know what real Art is? Coding.</h1>
 
 ###
 
