@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Sarper and I'm a Software Developer, from Germany</h1>
+<h1 align="left">Do you want to know what Art is? Coding.</h1>
 
 ###
 
