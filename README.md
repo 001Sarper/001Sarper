@@ -62,7 +62,7 @@ Self-hosting everything I can, automating the rest. If it breaks, I fix it. If i
 | 📦 Containers | Docker / Compose |
 | 🌐 Network | OpenWrt |
 | 📊 Monitoring | Grafana + Prometheus |
-| 🔐 Self-hosted | Vaultwarden, Nextcloud & more |
+| 🔐 Self-hosted | Vaultwarden, Immich & more |
 
 </div>
 
