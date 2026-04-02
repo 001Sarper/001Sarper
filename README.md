@@ -17,7 +17,7 @@
 ## 💬 About
 
 I build things — mostly for my homelab, sometimes just to see if it works.
-Self-hosting everything I can, automating the rest. If it breaks, I fix it. If it doesn't break, don't touch it!
+Self-hosting everything I can, automating the rest. If it breaks, I fix it. If it doesn't break, I leave it!
 
 ---
 
