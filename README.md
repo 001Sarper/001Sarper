@@ -75,7 +75,6 @@ Self-hosting everything I can, automating the rest. If it breaks, I fix it. If i
 <div align="center">
 
 ![Avalonia](https://img.shields.io/badge/Avalonia_UI-8B44AC?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java_Advanced-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
 
