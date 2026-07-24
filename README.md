@@ -71,7 +71,6 @@ Self-hosting everything I can, automating the rest. If it breaks, I fix it. If i
 ## 📚 Currently Learning
 
 > Diving into **Avalonia UI** to build cross-platform desktop apps with C#.  
-> Going deeper into **Java** — design patterns, clean architecture, the real stuff.
 
 <div align="center">
 
