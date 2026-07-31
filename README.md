@@ -66,9 +66,6 @@ Self-hosting everything I can, automating the rest. If it breaks, I fix it. If i
 
 </div>
 
-
----
-
 ## 📊 Stats
 
 <div align="center">
