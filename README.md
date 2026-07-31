@@ -66,17 +66,6 @@ Self-hosting everything I can, automating the rest. If it breaks, I fix it. If i
 
 </div>
 
----
-
-## 📚 Currently Learning
-
-> Diving into **Avalonia UI** to build cross-platform desktop apps with C#.  
-
-<div align="center">
-
-![Avalonia](https://img.shields.io/badge/Avalonia_UI-8B44AC?style=for-the-badge&logo=dotnet&logoColor=white)
-
-</div>
 
 ---
 
@@ -86,12 +75,3 @@ Self-hosting everything I can, automating the rest. If it breaks, I fix it. If i
 
 <img src="https://streak-stats.demolab.com?user=001Sarper&theme=tokyonight&hide_border=true&date_format=j.%20M%5B%20Y%5D"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=001Sarper&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d7377,100:1a1b27&height=100&section=footer"/>
-</div>
