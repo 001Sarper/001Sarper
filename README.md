@@ -1,23 +1,10 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:0d7377&height=180&section=header&text=Sarper&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Infrastructure%20·%20Software%20·%20Homelab&descAlignY=58&descColor=a9b1d6"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=0D7377&center=true&width=500&lines=Self-hosting+everything+I+can.;Automating+what+I+can't+be+bothered+to+do.;Daily+driver%3A+Fedora.+Servers%3A+Proxmox.)
-
-</div>
-
----
-
 ## 💬 About
 
-I build things — mostly for my homelab, sometimes just to see if it works.
-Self-hosting everything I can, automating the rest. If it breaks, I fix it. If it doesn't break, I leave it!
+I love tinkering and building software that's genuinely useful for others and for myself.
+My favorite thing to build: passionate AvaloniaUI apps in C#/AXAML that look great and stay lean, no unnecessary bloat.
+
+My personal side quest is my homelab. Spinning up VMs and Docker containers to self-host new apps
+and slowly escape the cloud, one service at a time. (No GitLab though — GitHub feels more like home)
 
 ---
 
